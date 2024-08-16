@@ -1,0 +1,6 @@
+div p{
+    width: 500px;
+    text-align: center; 
+    color: antiquewhite; border: 20px;
+}
+div, p{text-align: center;color: aquamarine;} 
